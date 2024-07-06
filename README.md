@@ -15,12 +15,12 @@ This is a simple Node.js API for user registration and authentication using bcry
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Nachu20/RestAPI_Example.git
     ```
 
 2. Navigate into the project directory:
     ```bash
-    cd your-repo-name
+    cd RestAPI_Example
     ```
 
 3. Install the dependencies:
